@@ -1,0 +1,103 @@
+# 非商业使用许可协议（1.0 版）
+
+Copyright (c) 2026 dangdongrui-cpu
+
+保留所有权利。本许可证授予的权利以本文件全部条款为前提。
+
+## 一、定义
+
+1. **“本软件”**指本仓库中的源代码、文档及相关文件，以及它们经授权产生的修改版或衍生版。
+2. **“商业用途”**指以获取经济利益、商业收益或营利机会为目的的使用，包括但不限于：销售、出租、许可收费、作为付费产品或付费服务的一部分提供、以获取营收或客户为目的的集成、以及企业内部以营利为目的的生产性使用。
+3. **“再分发”**指以任何媒介向第三方提供本软件或其修改版。
+
+## 二、授权
+
+在遵守本许可证全部条款的前提下，任何人均被免费授予一项非排他的、全球范围的、免版税的许可，允许：
+
+1. **使用**本软件，包括运行、研究其工作原理；
+2. **复制**本软件；
+3. **修改**本软件，并制作衍生作品；
+4. **再分发**本软件的原版或修改版。
+
+## 三、条件
+
+行使上述授权须同时满足：
+
+1. 本软件的源代码与二进制形式中，必须完整保留本版权声明及本许可证全文，不得删除、隐藏或篡改；
+2. 再分发修改版时，必须显著注明已作修改，并附上修改说明；
+3. 不得以与本许可证冲突的其他许可条款再分发本软件；
+4. 不得移除或规避本许可证中的任何限制条款。
+
+## 四、禁止商业用途
+
+**严禁将本软件用于任何商业用途。** 未经版权人事先书面同意，任何商业用途均不被授权，无论该使用是否产生实际收益。
+
+## 五、无担保
+
+本软件按“现状”提供，不附带任何明示或默示的担保，包括但不限于对适销性、特定用途适用性及不侵权的担保。使用本软件的全部风险由使用者自行承担。
+
+## 六、责任限制
+
+在任何情况下，版权人均不对因本软件或本软件的使用或其他处理而产生的任何索赔、损害或其他责任负责，无论该责任源于合同、侵权或其他，亦无论版权人是否已被告知此类损害的可能性。
+
+## 七、终止
+
+使用者违反本许可证任何条款时，本许可证授予的权利自动终止，无需任何通知。终止后，使用者须立即停止使用本软件，并销毁其持有的全部副本。
+
+## 八、其他
+
+1. 本许可证的中文版本与英文版本如有歧义，以**中文版本**为准。
+2. 本许可证未明确授予的权利，均由版权人保留。
+
+---
+
+# Non-Commercial Use License (Version 1.0)
+
+Copyright (c) 2026 dangdongrui-cpu
+
+All rights reserved. The rights granted by this license are conditioned on full compliance with all terms below.
+
+## 1. Definitions
+
+1. **"The Software"** means the source code, documentation, and related files in this repository, as well as any authorized modified or derivative versions thereof.
+2. **"Commercial Use"** means any use for the purpose of obtaining economic benefit, commercial gain, or business opportunity, including without limitation: selling, renting, charging for licensing, providing as part of a paid product or paid service, integrating for the purpose of generating revenue or acquiring customers, and productive internal use within an enterprise for profit-making purposes.
+3. **"Redistribute"** means providing the Software or a modified version thereof to any third party by any medium.
+
+## 2. Grant
+
+Subject to full compliance with all terms of this license, permission is hereby granted, free of charge, to any person, a non-exclusive, worldwide, royalty-free license to:
+
+1. **use** the Software, including running and studying how it works;
+2. **copy** the Software;
+3. **modify** the Software and create derivative works;
+4. **redistribute** the original or modified versions of the Software.
+
+## 3. Conditions
+
+The exercise of the foregoing grant is subject to the following conditions:
+
+1. This copyright notice and the full text of this license must be retained in both the source and binary forms of the Software, and must not be removed, obscured, or altered;
+2. When redistributing modified versions, you must prominently indicate that modifications were made, together with a description of the changes;
+3. The Software must not be redistributed under any other license terms that conflict with this license;
+4. No restriction of this license may be removed or circumvented.
+
+## 4. Prohibition of Commercial Use
+
+**Any Commercial Use of the Software is strictly prohibited.** Without the prior written consent of the copyright holder, no Commercial Use is authorized, whether or not such use actually generates revenue.
+
+## 5. No Warranty
+
+The Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The entire risk as to the use of the Software lies with the user.
+
+## 6. Limitation of Liability
+
+In no event shall the copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software, and whether or not the copyright holder has been advised of the possibility of such damages.
+
+## 7. Termination
+
+If a user breaches any term of this license, the rights granted herein terminate automatically without notice. Upon termination, the user must immediately cease all use of the Software and destroy all copies in their possession.
+
+## 8. Miscellaneous
+
+1. In the event of any ambiguity between the Chinese and English versions of this license, the **Chinese version** shall prevail.
+2. All rights not expressly granted by this license are reserved by the copyright holder.
